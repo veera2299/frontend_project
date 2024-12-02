@@ -3,7 +3,7 @@
 # Dessert E-Commerce Platform
 This project is a React-based e-commerce web application focusing on desserts. Users can browse desserts, add items to their cart, adjust quantities, and proceed to checkout. The application is deployed on Netlify and provides a clean, user-friendly experience with responsive design.
 
-Features
+**Features**
 1. Product Display :
 Desserts are displayed in a visually appealing card layout.
 Each dessert has an image, name, description, and price.
