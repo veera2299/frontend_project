@@ -42,31 +42,6 @@ Run the development server:
 npm start
 The app will run on http://localhost:5173.
 
-Folder Structure
-
-
-dessert-ecommerce-app
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── Cart.js
-│   │   ├── ProductCard.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── styles
-│       └── App.css
-└── README.md
-
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Enjoy browsing and ordering desserts!
-
-
 
 
 
